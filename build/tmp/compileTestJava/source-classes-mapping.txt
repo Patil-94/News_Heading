@@ -1,0 +1,2 @@
+com/blz/selenium/test/NewsHeading_Test.java
+ com.blz.selenium.test.NewsHeading_Test

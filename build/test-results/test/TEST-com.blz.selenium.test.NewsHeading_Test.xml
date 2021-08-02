@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.blz.selenium.test.NewsHeading_Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-30T06:30:13" hostname="DESKTOP-KFGQFK8" time="42.663">
+  <properties/>
+  <testcase name="news_headings_test" classname="com.blz.selenium.test.NewsHeading_Test" time="42.663"/>
+  <system-out><![CDATA[DaisyUI – Tailwind CSS Components
+The Fundamental Theorem of Algebra in ACL2
+The fig is an ecological marvel
+One Tenth of a Second
+CDC Internal Delta Variant Presentation
+Descriptorless Files for Io_uring
+The weird world of Australian sea snakes
+Amazon Kindles with 3G will start to lose cellular data access in December
+How Dwarf Fortress is built
+So you want to self-publish books and courses on programming
+A Large-Scale Security-Oriented Static Analysis of Python Packages in PyPI
+Against Overuse of the Gini Coefficient
+UsTaxes – open-source tax filing web application
+38% of remote workers work from bed
+Bootstrapping a multiplayer server with Elixir
+Hunting a bug in the i40e Intel driver
+Slate – A completely customizable framework for building rich text editors
+Google Translate pronounces 'rooster' in Spanish
+Document Database Transaction Models
+Launch HN: Sane IT; mobile mechanics; chat teams; Zoom events; spas and beauty
+Undetectable quantum computation and communication for alien civilizations
+Worlds Apart: Technology, Remote Work, and Equity
+UpCodes is hiring our first PM to automate compliance for architects
+Probably Are Gonna Need It: Application Security Edition
+Billions in 'unknown' funds flowing into Canada's housing market [video]
+What the Heck is a Data Mesh?
+The Playdate store is now open
+Announcing Vitess 11
+Cal Newport on an industrial revolution for office work
+Grand jury indicts Trevor Milton, Nikola founder, on three counts of fraud
+60
+23
+15
+138
+55
+37
+20
+257
+885
+144
+59
+58
+148
+85
+209
+79
+119
+77
+39
+69
+147
+10
+107
+63
+115
+195
+83
+113
+502
+UsTaxes – open-source tax filing web application=148
+Slate – A completely customizable framework for building rich text editors=119
+Probably Are Gonna Need It: Application Security Edition=63
+Worlds Apart: Technology, Remote Work, and Equity=10
+Google Translate pronounces 'rooster' in Spanish=77
+The Fundamental Theorem of Algebra in ACL2=23
+What the Heck is a Data Mesh?=195
+DaisyUI – Tailwind CSS Components=60
+Cal Newport on an industrial revolution for office work=502
+Against Overuse of the Gini Coefficient=58
+A Large-Scale Security-Oriented Static Analysis of Python Packages in PyPI=59
+How Dwarf Fortress is built=885
+The weird world of Australian sea snakes=20
+Launch HN: Sane IT; mobile mechanics; chat teams; Zoom events; spas and beauty=69
+CDC Internal Delta Variant Presentation=55
+Descriptorless Files for Io_uring=37
+38% of remote workers work from bed=85
+UpCodes is hiring our first PM to automate compliance for architects=107
+Billions in 'unknown' funds flowing into Canada's housing market [video]=115
+The Playdate store is now open=83
+Announcing Vitess 11=113
+Bootstrapping a multiplayer server with Elixir=209
+Amazon Kindles with 3G will start to lose cellular data access in December=257
+So you want to self-publish books and courses on programming=144
+The fig is an ecological marvel=15
+Document Database Transaction Models=39
+One Tenth of a Second=138
+Undetectable quantum computation and communication for alien civilizations=147
+Hunting a bug in the i40e Intel driver=79
+DaisyUI
+–
+Tailwind
+CSS
+Components
+The
+Fundamental
+Theorem
+of
+Algebra
+in
+ACL2
+The
+fig
+is
+an
+ecological
+marvel
+One
+Tenth
+of
+a
+Second
+CDC
+Internal
+Delta
+Variant
+Presentation
+Descriptorless
+Files
+for
+Io_uring
+The
+weird
+world
+of
+Australian
+sea
+snakes
+Amazon
+Kindles
+with
+3G
+will
+start
+to
+lose
+cellular
+data
+access
+in
+December
+How
+Dwarf
+Fortress
+is
+built
+So
+you
+want
+to
+self-publish
+books
+and
+courses
+on
+programming
+A
+Large-Scale
+Security-Oriented
+Static
+Analysis
+of
+Python
+Packages
+in
+PyPI
+Against
+Overuse
+of
+the
+Gini
+Coefficient
+UsTaxes
+–
+open-source
+tax
+filing
+web
+application
+38%
+of
+remote
+workers
+work
+from
+bed
+Bootstrapping
+a
+multiplayer
+server
+with
+Elixir
+Hunting
+a
+bug
+in
+the
+i40e
+Intel
+driver
+Slate
+–
+A
+completely
+customizable
+framework
+for
+building
+rich
+text
+editors
+Google
+Translate
+pronounces
+'rooster'
+in
+Spanish
+Document
+Database
+Transaction
+Models
+Launch
+HN:
+Sane
+IT;
+mobile
+mechanics;
+chat
+teams;
+Zoom
+events;
+spas
+and
+beauty
+Undetectable
+quantum
+computation
+and
+communication
+for
+alien
+civilizations
+Worlds
+Apart:
+Technology,
+Remote
+Work,
+and
+Equity
+UpCodes
+is
+hiring
+our
+first
+PM
+to
+automate
+compliance
+for
+architects
+Probably
+Are
+Gonna
+Need
+It:
+Application
+Security
+Edition
+Billions
+in
+'unknown'
+funds
+flowing
+into
+Canada's
+housing
+market
+[video]
+What
+the
+Heck
+is
+a
+Data
+Mesh?
+The
+Playdate
+store
+is
+now
+open
+Announcing
+Vitess
+11
+Cal
+Newport
+on
+an
+industrial
+revolution
+for
+office
+work
+Grand
+jury
+indicts
+Trevor
+Milton,
+Nikola
+founder,
+on
+three
+counts
+of
+fraud
+CDC=1
+fig=1
+counts=1
+Internal=1
+UsTaxes=1
+mechanics;=1
+remote=1
+Document=1
+Security=1
+Tailwind=1
+revolution=1
+three=1
+building=1
+Components=1
+December=1
+–=3
+ACL2=1
+Database=1
+text=1
+Gini=1
+Translate=1
+you=1
+Io_uring=1
+11=1
+Google=1
+ecological=1
+in=6
+work=2
+lose=1
+want=1
+Nikola=1
+is=5
+an=2
+Edition=1
+Variant=1
+How=1
+filing=1
+founder,=1
+books=1
+driver=1
+Are=1
+Analysis=1
+cellular=1
+Dwarf=1
+Models=1
+Kindles=1
+completely=1
+Amazon=1
+Application=1
+Overuse=1
+Elixir=1
+Trevor=1
+Newport=1
+A=2
+server=1
+access=1
+Apart:=1
+housing=1
+One=1
+customizable=1
+snakes=1
+DaisyUI=1
+our=1
+sea=1
+alien=1
+It:=1
+The=4
+i40e=1
+into=1
+Fundamental=1
+world=1
+web=1
+'unknown'=1
+Theorem=1
+Vitess=1
+self-publish=1
+Files=1
+workers=1
+UpCodes=1
+38%=1
+a=4
+Against=1
+Heck=1
+store=1
+Presentation=1
+computation=1
+the=3
+weird=1
+IT;=1
+framework=1
+3G=1
+[video]=1
+Delta=1
+bug=1
+Australian=1
+chat=1
+spas=1
+to=3
+So=1
+first=1
+open=1
+bed=1
+Announcing=1
+Sane=1
+Probably=1
+data=1
+beauty=1
+Gonna=1
+Worlds=1
+office=1
+Intel=1
+Need=1
+Algebra=1
+pronounces=1
+Packages=1
+from=1
+Spanish=1
+funds=1
+communication=1
+civilizations=1
+programming=1
+Python=1
+courses=1
+tax=1
+indicts=1
+flowing=1
+Cal=1
+Bootstrapping=1
+market=1
+Transaction=1
+events;=1
+architects=1
+fraud=1
+Fortress=1
+Undetectable=1
+Static=1
+Slate=1
+Mesh?=1
+PyPI=1
+hiring=1
+for=5
+Equity=1
+Remote=1
+quantum=1
+What=1
+Security-Oriented=1
+Large-Scale=1
+'rooster'=1
+and=4
+of=7
+now=1
+Zoom=1
+multiplayer=1
+editors=1
+on=3
+Playdate=1
+CSS=1
+Coefficient=1
+Hunting=1
+jury=1
+will=1
+built=1
+Work,=1
+start=1
+mobile=1
+rich=1
+open-source=1
+teams;=1
+Data=1
+Launch=1
+Descriptorless=1
+with=2
+Grand=1
+Technology,=1
+industrial=1
+marvel=1
+Second=1
+application=1
+HN:=1
+compliance=1
+automate=1
+Billions=1
+Canada's=1
+PM=1
+Milton,=1
+Tenth=1
+Word CDC repeated: 1 times
+Word fig repeated: 1 times
+Word counts repeated: 1 times
+Word Internal repeated: 1 times
+Word UsTaxes repeated: 1 times
+Word mechanics; repeated: 1 times
+Word remote repeated: 1 times
+Word Document repeated: 1 times
+Word Security repeated: 1 times
+Word Tailwind repeated: 1 times
+Word revolution repeated: 1 times
+Word three repeated: 1 times
+Word building repeated: 1 times
+Word Components repeated: 1 times
+Word December repeated: 1 times
+Word – repeated: 3 times
+Word ACL2 repeated: 1 times
+Word Database repeated: 1 times
+Word text repeated: 1 times
+Word Gini repeated: 1 times
+Word Translate repeated: 1 times
+Word you repeated: 1 times
+Word Io_uring repeated: 1 times
+Word 11 repeated: 1 times
+Word Google repeated: 1 times
+Word ecological repeated: 1 times
+Word in repeated: 6 times
+Word work repeated: 2 times
+Word lose repeated: 1 times
+Word want repeated: 1 times
+Word Nikola repeated: 1 times
+Word is repeated: 5 times
+Word an repeated: 2 times
+Word Edition repeated: 1 times
+Word Variant repeated: 1 times
+Word How repeated: 1 times
+Word filing repeated: 1 times
+Word founder, repeated: 1 times
+Word books repeated: 1 times
+Word driver repeated: 1 times
+Word Are repeated: 1 times
+Word Analysis repeated: 1 times
+Word cellular repeated: 1 times
+Word Dwarf repeated: 1 times
+Word Models repeated: 1 times
+Word Kindles repeated: 1 times
+Word completely repeated: 1 times
+Word Amazon repeated: 1 times
+Word Application repeated: 1 times
+Word Overuse repeated: 1 times
+Word Elixir repeated: 1 times
+Word Trevor repeated: 1 times
+Word Newport repeated: 1 times
+Word A repeated: 2 times
+Word server repeated: 1 times
+Word access repeated: 1 times
+Word Apart: repeated: 1 times
+Word housing repeated: 1 times
+Word One repeated: 1 times
+Word customizable repeated: 1 times
+Word snakes repeated: 1 times
+Word DaisyUI repeated: 1 times
+Word our repeated: 1 times
+Word sea repeated: 1 times
+Word alien repeated: 1 times
+Word It: repeated: 1 times
+Word The repeated: 4 times
+Word i40e repeated: 1 times
+Word into repeated: 1 times
+Word Fundamental repeated: 1 times
+Word world repeated: 1 times
+Word web repeated: 1 times
+Word 'unknown' repeated: 1 times
+Word Theorem repeated: 1 times
+Word Vitess repeated: 1 times
+Word self-publish repeated: 1 times
+Word Files repeated: 1 times
+Word workers repeated: 1 times
+Word UpCodes repeated: 1 times
+Word 38% repeated: 1 times
+Word a repeated: 4 times
+Word Against repeated: 1 times
+Word Heck repeated: 1 times
+Word store repeated: 1 times
+Word Presentation repeated: 1 times
+Word computation repeated: 1 times
+Word the repeated: 3 times
+Word weird repeated: 1 times
+Word IT; repeated: 1 times
+Word framework repeated: 1 times
+Word 3G repeated: 1 times
+Word [video] repeated: 1 times
+Word Delta repeated: 1 times
+Word bug repeated: 1 times
+Word Australian repeated: 1 times
+Word chat repeated: 1 times
+Word spas repeated: 1 times
+Word to repeated: 3 times
+Word So repeated: 1 times
+Word first repeated: 1 times
+Word open repeated: 1 times
+Word bed repeated: 1 times
+Word Announcing repeated: 1 times
+Word Sane repeated: 1 times
+Word Probably repeated: 1 times
+Word data repeated: 1 times
+Word beauty repeated: 1 times
+Word Gonna repeated: 1 times
+Word Worlds repeated: 1 times
+Word office repeated: 1 times
+Word Intel repeated: 1 times
+Word Need repeated: 1 times
+Word Algebra repeated: 1 times
+Word pronounces repeated: 1 times
+Word Packages repeated: 1 times
+Word from repeated: 1 times
+Word Spanish repeated: 1 times
+Word funds repeated: 1 times
+Word communication repeated: 1 times
+Word civilizations repeated: 1 times
+Word programming repeated: 1 times
+Word Python repeated: 1 times
+Word courses repeated: 1 times
+Word tax repeated: 1 times
+Word indicts repeated: 1 times
+Word flowing repeated: 1 times
+Word Cal repeated: 1 times
+Word Bootstrapping repeated: 1 times
+Word market repeated: 1 times
+Word Transaction repeated: 1 times
+Word events; repeated: 1 times
+Word architects repeated: 1 times
+Word fraud repeated: 1 times
+Word Fortress repeated: 1 times
+Word Undetectable repeated: 1 times
+Word Static repeated: 1 times
+Word Slate repeated: 1 times
+Word Mesh? repeated: 1 times
+Word PyPI repeated: 1 times
+Word hiring repeated: 1 times
+Word for repeated: 5 times
+Word Equity repeated: 1 times
+Word Remote repeated: 1 times
+Word quantum repeated: 1 times
+Word What repeated: 1 times
+Word Security-Oriented repeated: 1 times
+Word Large-Scale repeated: 1 times
+Word 'rooster' repeated: 1 times
+Word and repeated: 4 times
+Word of repeated: 7 times
+Word now repeated: 1 times
+Word Zoom repeated: 1 times
+Word multiplayer repeated: 1 times
+Word editors repeated: 1 times
+Word on repeated: 3 times
+Word Playdate repeated: 1 times
+Word CSS repeated: 1 times
+Word Coefficient repeated: 1 times
+Word Hunting repeated: 1 times
+Word jury repeated: 1 times
+Word will repeated: 1 times
+Word built repeated: 1 times
+Word Work, repeated: 1 times
+Word start repeated: 1 times
+Word mobile repeated: 1 times
+Word rich repeated: 1 times
+Word open-source repeated: 1 times
+Word teams; repeated: 1 times
+Word Data repeated: 1 times
+Word Launch repeated: 1 times
+Word Descriptorless repeated: 1 times
+Word with repeated: 2 times
+Word Grand repeated: 1 times
+Word Technology, repeated: 1 times
+Word industrial repeated: 1 times
+Word marvel repeated: 1 times
+Word Second repeated: 1 times
+Word application repeated: 1 times
+Word HN: repeated: 1 times
+Word compliance repeated: 1 times
+Word automate repeated: 1 times
+Word Billions repeated: 1 times
+Word Canada's repeated: 1 times
+Word PM repeated: 1 times
+Word Milton, repeated: 1 times
+Word Tenth repeated: 1 times
+Word which repeating More Times:of
+Most populaR TEST DATA:Cal Newport on an industrial revolution for office work
+Cal Newport on an industrial revolution for office work
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

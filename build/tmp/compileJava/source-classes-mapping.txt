@@ -1,0 +1,4 @@
+com/blz/selenium/base/BaseClass.java
+ com.blz.selenium.base.BaseClass
+com/blz/selenium/pages/News_Heading_Page.java
+ com.blz.selenium.pages.News_Heading_Page
